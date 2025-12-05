@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		CABC03422CFC520700C0C069 /* AoC2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AoC2024; sourceTree = BUILT_PRODUCTS_DIR; };
+		CABC03422CFC520700C0C069 /* AoC2025 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AoC2025; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,7 +52,7 @@
 		CABC03432CFC520700C0C069 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CABC03422CFC520700C0C069 /* AoC2024 */,
+				CABC03422CFC520700C0C069 /* AoC2025 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CABC03412CFC520700C0C069 /* AoC2024 */ = {
+		CABC03412CFC520700C0C069 /* AoC2025 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CABC03492CFC520700C0C069 /* Build configuration list for PBXNativeTarget "AoC2024" */;
+			buildConfigurationList = CABC03492CFC520700C0C069 /* Build configuration list for PBXNativeTarget "AoC2025" */;
 			buildPhases = (
 				CABC033E2CFC520700C0C069 /* Sources */,
 				CABC033F2CFC520700C0C069 /* Frameworks */,
@@ -75,11 +75,11 @@
 			fileSystemSynchronizedGroups = (
 				CABC03442CFC520700C0C069 /* AoC2025 */,
 			);
-			name = AoC2024;
+			name = AoC2025;
 			packageProductDependencies = (
 			);
 			productName = AoC2024;
-			productReference = CABC03422CFC520700C0C069 /* AoC2024 */;
+			productReference = CABC03422CFC520700C0C069 /* AoC2025 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CABC03412CFC520700C0C069 /* AoC2024 */,
+				CABC03412CFC520700C0C069 /* AoC2025 */,
 			);
 		};
 /* End PBXProject section */
@@ -279,7 +279,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CABC03492CFC520700C0C069 /* Build configuration list for PBXNativeTarget "AoC2024" */ = {
+		CABC03492CFC520700C0C069 /* Build configuration list for PBXNativeTarget "AoC2025" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CABC034A2CFC520700C0C069 /* Debug */,
